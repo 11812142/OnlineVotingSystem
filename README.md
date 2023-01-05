@@ -1,2 +1,2 @@
-# Online_Voting_based-_on_blockchain
+# Online_Voting_web _applivation
 Capstone project
